@@ -1,0 +1,12 @@
+.header__container{
+    display: flex;
+    height: 50px;
+    padding: var(--spasing-small);
+    background-color: var(--color-medium);
+}
+.header__counter{
+    margin-left: auto;
+    padding-right: var(--spasing-small);
+    cursor: pointer;
+    font-weight: bold;
+}
